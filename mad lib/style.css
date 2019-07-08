@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    background-color: white; 
+    width: 800px; 
+    padding: 50px 100px;
+    
+    
+
+}
+
+html {
+    background-color: lightblue;
+
+}
+
+button {
+    color:white;
+    background-color: lightblue;
+    padding: 5px 20px;
+    font-size: 15px; 
+
+}
+
+p, ul, input {
+    font-size: 20px;
+}
+
+.results {
+    font-size: 25px; 
+    font-style: italic; 
+}
+
+h1, h2 {
+    font-variant: small-caps;
+}
+
+h1 {
+    font-size: 45px;
+
+}
+
+h2 {
+    font-size: 30px;
+
+}
+
+p, h1, h2, ul, button, .results, input {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
